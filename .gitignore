@@ -38,6 +38,6 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
-/Datalogger_Docs
-/Datalogger_Symb
-/Prints
+#/Datalogger_Docs
+#/Datalogger_Symb
+#/Prints
